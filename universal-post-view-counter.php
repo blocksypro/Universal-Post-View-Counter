@@ -4,7 +4,7 @@ Plugin Name: Universal Post View Counter
 Plugin URI: https://blocksystartersites.com/universal-post-view-counter/
 Description: Counts and displays the total views and live views for WordPress posts, pages, WooCommerce products, and custom post types using 'AJAX for best performane'.
 Version: 1.1
-Author: Richmond
+Author: Richmond Ayisi
 Text Domain: universal-post-view-counter
 License:  GPL v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
